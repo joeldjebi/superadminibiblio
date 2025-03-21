@@ -1,0 +1,12 @@
+
+.card-icon-bg .card-body .content {
+    max-width: initial;
+}
+
+div#language_option_table_filter {
+    text-align: end;
+}
+
+.show-livre-content .card-icon-big .card-body {
+    padding: 1rem .5rem;
+}
